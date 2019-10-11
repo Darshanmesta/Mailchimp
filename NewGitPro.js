@@ -71,8 +71,4 @@ app.listen(3000,function(){
   console.log("Hello Server is Up and Running on 3000")
 })
 
-//Api key
-// ff447f22e3ca212bf1ef8d0525449e8f-us20
 
-//LIST unique ID
-//266a54189e
